@@ -1,0 +1,16 @@
+PODS:
+  - monosdktesting (0.1.0)
+
+DEPENDENCIES:
+  - monosdktesting (from `../`)
+
+EXTERNAL SOURCES:
+  monosdktesting:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  monosdktesting: be9a9bde332bec426f01a30b3a129e699604b7cf
+
+PODFILE CHECKSUM: 36ab72722c54f15cd3364bc7af14d075d88d40ce
+
+COCOAPODS: 1.5.3
