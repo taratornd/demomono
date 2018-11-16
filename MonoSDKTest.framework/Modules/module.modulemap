@@ -1,0 +1,11 @@
+framework module MonoSDKTest {
+  umbrella header "MonoSDKTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module MonoSDKTest.Swift {
+    header "MonoSDKTest-Swift.h"
+    requires objc
+}
